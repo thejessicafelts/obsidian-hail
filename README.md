@@ -1,3 +1,3 @@
-<span style="display:block;"><strong>Classification: </strong>Top Secret</span>
-<span style="display:block;">OPERATION</span>
+<span><strong>CLASSIFICATION:</strong> TOP SECRET</span><br />
+<h3>OPERATION</h3>
 <h1>OBSIDIAN HAIL</h1>
